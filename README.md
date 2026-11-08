@@ -1,61 +1,50 @@
 # Hi 👋, I'm Unaib Bashir
 ### Senior Software & AI Developer (5+ Years) | Forward Deployed Engineer | Automation Architect
 
-[LinkedIn](https://linkedin.com) • [Email Me](mailto:unaib@example.com) • [Repositories](https://github.com)
-
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Software & AI Developer with 5+ years of experience** building production-grade software systems, agentic AI workflows, and end-to-end automation pipelines. As a **Forward Deployed Engineer**, I specialize in bridging the gap between complex AI models and real-world business operations—taking projects from rapid prototypes to scalable, deployed solutions.
+I am a **Software & AI Developer with 5+ years of experience** building scalable software architectures, intelligent AI systems, and end-to-end workflow automations. As a **Forward Deployed Engineer**, I specialize in bridging the gap between complex engineering and real-world business operations—taking initiatives from rapid prototypes to production-ready deployments.
 
-- 🔭 **Currently Building:** Multimodal Clinical RAG systems, Multi-Agent orchestration (`LangGraph`), and Enterprise Workflow Automations.
-- ⚙️ **Core Focus:** Full-Stack Web Architecture, Retrieval-Augmented Generation (RAG), Computer Vision pipelines, and API-driven Business Automation.
-- 🤝 **Open For:** AI Consulting, Forward-Deployed Engineering roles, and Custom Automation / Full-Stack AI builds.
+- 🔭 **Currently Focused On:** Multimodal AI systems, Agentic Workflows, Enterprise RAG Pipelines, and Intelligent Process Automation.
+- ⚙️ **Core Strengths:** Full-Stack System Design, Conversational & Vision AI Integration, Cloud Infrastructure, and API-Driven Automation.
+- 🤝 **Open For:** Technical Consulting, Forward-Deployed Engineering Roles, and Custom AI & Automation Solutions.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Core Competencies & Domains
 
 <details open>
-<summary><b>🤖 AI, Agents & RAG Engineering</b></summary>
+<summary><b>🤖 Artificial Intelligence & Agentic Systems</b></summary>
 
-- **Frameworks & Orchestration:** LangChain, LangGraph, Agentic Workflows
-- **LLMs & Vision:** OpenAI API (`GPT-4o`), PyTorch (`EfficientNet-B0`), Multimodal Pipelines
-- **Vector Databases:** Pinecone (Serverless), FAISS (Local Evaluation)
+- **Generative AI & RAG:** Enterprise Retrieval-Augmented Generation, Semantic Search, Hybrid Retrieval, and Context Guardrails
+- **Agentic Workflows:** Multi-Agent Orchestration, Stateful Memory Management, Tool Calling, and Evaluation Pipelines
+- **Multimodal & Vision AI:** Image Classification, Visual-Text Reasoning, and Real-Time Inference Pipelines
 
 </details>
 
 <details open>
-<summary><b>⚡ Backend, Frontend & Databases</b></summary>
+<summary><b>⚡ Full-Stack Software Engineering</b></summary>
 
-- **Backend:** Python, FastAPI, REST APIs, Real-Time Server-Sent Events (SSE)
-- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
-- **Databases & Storage:** PostgreSQL, Supabase (Auth, PostgresSaver, Object Storage)
+- **Backend & APIs:** High-Performance Asynchronous APIs, Microservices, Real-Time Streaming (SSE/WebSockets), and Authentication Systems
+- **Frontend & UI:** Modern Responsive Web Applications, Interactive Dashboards, and Client-Side State Management
+- **Data & Storage:** Relational Databases, Vector Stores, Cloud Object Storage, and Persistent Session Management
 
 </details>
 
 <details open>
-<summary><b>🔄 Automation & Cloud DevOps</b></summary>
+<summary><b>🔄 Automation & Cloud Infrastructure</b></summary>
 
-- **Workflow Automation:** n8n, API Integrations, Event-Driven Pipelines
-- **Deployment & CI/CD:** Docker, GitHub Actions, Linux Server Management
+- **Business & Workflow Automation:** Event-Driven Pipelines, Third-Party API Integrations, CRM/ERP Automations, and Custom Bots
+- **DevOps & Deployment:** Containerization, CI/CD Pipelines, Cloud Hosting, and Production Monitoring
 
 </details>
 
 ---
 
-### 🚀 Featured Production Projects
+### 💡 Forward-Deployed Engineering Approach
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[DermaAI — Multimodal Clinical RAG Backend](https://github.com)** | Enterprise dermatology consultation engine combining `EfficientNet-B0` skin image classification with `LangGraph` + `Pinecone` RAG and real-time SSE streaming. | `FastAPI` • `LangGraph` • `PyTorch` • `Pinecone` • `Supabase` |
-| **DermaAI — Patient Consultation Portal** | Full-stack patient interface featuring secure authentication, multi-thread consultation memory, skin image uploads, and live token streaming. | `Next.js` • `TypeScript` • `Tailwind CSS` • `Supabase` |
-
----
-
-### 💡 How I Work (Forward-Deployed Approach)
-
-1. **Rapid Prototyping:** Translate ambiguous business problems into working AI/software proofs-of-concept within days.
-2. **Production Hardening:** Implement guardrails, evaluation pipelines, persistent memory, and secure authentication.
-3. **End-to-End Automation:** Connect AI intelligence directly into existing CRMs, APIs, and operational workflows.
+1. **Discovery & Rapid Prototyping:** Translate complex business bottlenecks into functional proofs-of-concept quickly.
+2. **Production Hardening:** Implement security, data privacy compliance, hallucination guardrails, and scalable architectures.
+3. **Seamless Integration:** Embed AI and automation directly into existing enterprise tools and daily operational workflows.
