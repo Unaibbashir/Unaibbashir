@@ -1,116 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="860" height="330" viewBox="0 0 860 330" fill="none" xmlns="http://w3.org">
-  <rect x="1" y="1" width="858" height="328" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
-  <path d="M1 13C1 6.37258 6.37258 1 13 1H847C853.627 1 859 6.37258 859 13V38H1V13Z" fill="#f8fafc"/>
-  <line x1="1" y1="38" x2="859" y2="38" stroke="#e2e8f0" stroke-width="1"/>
-  
-  <circle cx="22" cy="19.5" r="5" fill="#ef4444"/>
-  <circle cx="38" cy="19.5" r="5" fill="#f59e0b"/>
-  <circle cx="54" cy="19.5" r="5" fill="#10b981"/>
-  
-  <text x="74" y="23.5" font-family="monospace" font-size="13" fill="#334155" font-weight="600">$ python deploy.py --engineer unaib-bashir --exp 5y+ --mode forward-deployed</text>
-  
-  <circle cx="755" cy="19.5" r="4" fill="#10b981"/>
-  <text x="765" y="23" font-family="monospace" font-size="11" fill="#059669" font-weight="600">agents · online</text>
+<svg width="860" height="390" viewBox="0 0 860 390" xmlns="http://w3.org">
+  <!-- Top Badges Row 1 -->
+  <g font-family="monospace" font-size="11" font-weight="600">
+    <rect x="65" y="10" width="46" height="22" rx="3" fill="#1e293b"/>
+    <text x="88" y="25" text-anchor="middle" fill="#ffffff">role</text>
+    <rect x="111" y="10" width="168" height="22" rx="3" fill="#f59e0b"/>
+    <text x="195" y="25" text-anchor="middle" fill="#ffffff">Software &amp; AI Developer</text>
 
-  <text x="24" y="64" font-family="monospace" font-size="11.5" fill="#4f46e5" font-weight="600">forward_pass()</text>
-  
-  <text x="115" y="96" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Software Eng</text>
-  <circle cx="130" cy="92" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+    <rect x="287" y="10" width="52" height="22" rx="3" fill="#1e293b"/>
+    <text x="313" y="25" text-anchor="middle" fill="#ffffff">focus</text>
+    <rect x="339" y="10" width="175" height="22" rx="3" fill="#ec4899"/>
+    <text x="426" y="25" text-anchor="middle" fill="#ffffff">Agentic RAG &amp; Automation</text>
 
-  <text x="115" y="142" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">AI + Agents</text>
-  <circle cx="130" cy="138" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+    <rect x="522" y="10" width="52" height="22" rx="3" fill="#1e293b"/>
+    <text x="548" y="25" text-anchor="middle" fill="#ffffff">stack</text>
+    <rect x="574" y="10" width="120" height="22" rx="3" fill="#ef4444"/>
+    <text x="634" y="25" text-anchor="middle" fill="#ffffff">Full-Stack AI</text>
 
-  <text x="115" y="188" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Automation</text>
-  <circle cx="130" cy="184" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
-
-  <text x="115" y="234" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Full-Stack</text>
-  <circle cx="130" cy="230" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
-
-  <g stroke="#cbd5e1" stroke-width="1" opacity="0.8">
-    <line x1="136" y1="92" x2="214" y2="85"/><line x1="136" y1="92" x2="214" y2="128"/>
-    <line x1="136" y1="92" x2="214" y2="171"/><line x1="136" y1="92" x2="214" y2="214"/>
-    <line x1="136" y1="138" x2="214" y2="85"/><line x1="136" y1="138" x2="214" y2="128"/>
-    <line x1="136" y1="138" x2="214" y2="171"/><line x1="136" y1="138" x2="214" y2="214"/>
-    <line x1="136" y1="184" x2="214" y2="85"/><line x1="136" y1="184" x2="214" y2="128"/>
-    <line x1="136" y1="184" x2="214" y2="171"/><line x1="136" y1="184" x2="214" y2="214"/>
-    <line x1="136" y1="230" x2="214" y2="128"/><line x1="136" y1="230" x2="214" y2="171"/>
-    <line x1="136" y1="230" x2="214" y2="214"/><line x1="136" y1="230" x2="214" y2="245"/>
-    <line x1="226" y1="85" x2="294" y2="100"/><line x1="226" y1="85" x2="294" y2="145"/>
-    <line x1="226" y1="128" x2="294" y2="100"/><line x1="226" y1="128" x2="294" y2="145"/>
-    <line x1="226" y1="128" x2="294" y2="190"/><line x1="226" y1="171" x2="294" y2="145"/>
-    <line x1="226" y1="171" x2="294" y2="190"/><line x1="226" y1="171" x2="294" y2="232"/>
-    <line x1="226" y1="214" x2="294" y2="190"/><line x1="226" y1="214" x2="294" y2="232"/>
-    <line x1="226" y1="245" x2="294" y2="232"/>
-    <line x1="306" y1="100" x2="368" y2="120"/><line x1="306" y1="145" x2="368" y2="120"/>
-    <line x1="306" y1="145" x2="368" y2="205"/><line x1="306" y1="190" x2="368" y2="120"/>
-    <line x1="306" y1="190" x2="368" y2="205"/><line x1="306" y1="232" x2="368" y2="205"/>
+    <rect x="702" y="10" width="38" height="22" rx="3" fill="#1e293b"/>
+    <text x="721" y="25" text-anchor="middle" fill="#ffffff">exp</text>
+    <rect x="740" y="10" width="62" height="22" rx="3" fill="#a855f7"/>
+    <text x="771" y="25" text-anchor="middle" fill="#ffffff">5+ Years</text>
   </g>
 
-  <circle cx="220" cy="85" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="220" cy="128" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="220" cy="171" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="220" cy="214" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="220" cy="245" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <!-- Top Badges Row 2 -->
+  <g font-family="monospace" font-size="11" font-weight="600">
+    <rect x="155" y="38" width="46" height="22" rx="3" fill="#1e293b"/>
+    <text x="178" y="53" text-anchor="middle" fill="#ffffff">mode</text>
+    <rect x="201" y="38" width="182" height="22" rx="3" fill="#3b82f6"/>
+    <text x="292" y="53" text-anchor="middle" fill="#ffffff">Forward Deployed Engineer</text>
 
-  <circle cx="300" cy="100" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="300" cy="145" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="300" cy="190" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
-  <circle cx="300" cy="232" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+    <rect x="391" y="38" width="56" height="22" rx="3" fill="#1e293b"/>
+    <text x="419" y="53" text-anchor="middle" fill="#ffffff">status</text>
+    <rect x="447" y="38" width="110" height="22" rx="3" fill="#10b981"/>
+    <text x="502" y="53" text-anchor="middle" fill="#ffffff">in production</text>
 
-  <circle cx="375" cy="120" r="6.5" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
-  <rect x="388" y="108" width="118" height="24" rx="5" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.2"/>
-  <text x="447" y="124" text-anchor="middle" font-family="monospace" font-size="11" fill="#1d4ed8" font-weight="600">AI Architect</text>
+    <rect x="565" y="38" width="56" height="22" rx="3" fill="#1e293b"/>
+    <text x="593" y="53" text-anchor="middle" fill="#ffffff">collab</text>
+    <rect x="621" y="38" width="90" height="22" rx="3" fill="#eab308"/>
+    <text x="666" y="53" text-anchor="middle" fill="#ffffff">available</text>
+  </g>
 
-  <circle cx="375" cy="205" r="6.5" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
-  <rect x="388" y="193" width="118" height="24" rx="5" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="447" y="209" text-anchor="middle" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Forward Deployed</text>
-
-  <text x="24" y="274" font-family="monospace" font-size="11" fill="#64748b">input: 5y+_experience · hidden: fullstack_ai_automation · output: p(production)</text>
-
-  <line x1="530" y1="52" x2="530" y2="280" stroke="#e2e8f0" stroke-width="1"/>
-
-  <text x="552" y="64" font-family="monospace" font-size="11.5" fill="#d97706" font-weight="600">impact_curve() <tspan fill="#64748b" font-weight="400">— velocity · scale</tspan></text>
-  <text x="552" y="92" font-family="monospace" font-size="11" fill="#64748b">high</text>
-  <text x="552" y="232" font-family="monospace" font-size="11" fill="#64748b">base</text>
-
-  <line x1="585" y1="84" x2="585" y2="236" stroke="#cbd5e1" stroke-width="1.2"/>
-  <line x1="585" y1="236" x2="835" y2="236" stroke="#cbd5e1" stroke-width="1.2"/>
-  <line x1="585" y1="134" x2="835" y2="134" stroke="#f1f5f9" stroke-width="1"/>
-  <line x1="585" y1="184" x2="835" y2="184" stroke="#f1f5f9" stroke-width="1"/>
-
-  <path d="M590 218 Q 650 198, 705 162 T 825 104" fill="none" stroke="#6366f1" stroke-width="1.8" stroke-dasharray="4 3"/>
-  <path d="M590 225 Q 655 188, 710 142 T 825 88" fill="none" stroke="#d97706" stroke-width="2.5"/>
-
-  <circle cx="605" cy="216" r="3.5" fill="#d97706"/>
-  <circle cx="660" cy="182" r="3.5" fill="#d97706"/>
-  <circle cx="715" cy="140" r="3.5" fill="#d97706"/>
-  <circle cx="770" cy="108" r="3.5" fill="#d97706"/>
-  <circle cx="825" cy="88" r="4.5" fill="#10b981" stroke="#ffffff" stroke-width="1.5"/>
-
-  <text x="605" y="253" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 1</text>
-  <text x="605" y="265" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">Core Dev</text>
-  <text x="660" y="253" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 2</text>
-  <text x="660" y="265" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">Full-Stack</text>
-  <text x="715" y="253" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 3</text>
-  <text x="715" y="265" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">Automation</text>
-  <text x="770" y="253" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 4</text>
-  <text x="770" y="265" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">AI / RAG</text>
-  <text x="825" y="253" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#059669" font-weight="600">5+ Yrs</text>
-  <text x="825" y="265" text-anchor="middle" font-family="monospace" font-size="9" fill="#059669">FDE Lead</text>
-
-  <line x1="1" y1="290" x2="859" y2="290" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="24" y="313" font-family="monospace" font-size="11" fill="#4f46e5" font-weight="600">core_principles</text>
+  <!-- Main Card -->
+  <rect x="1" y="74" width="858" height="315" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="1" y="74" width="858" height="36" rx="12" fill="#f8fafc"/>
+  <line x1="1" y1="110" x2="859" y2="110" stroke="#e2e8f0" stroke-width="1"/>
   
-  <rect x="145" y="299" width="165" height="20" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="227" y="313" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#334155">production-first systems</text>
+  <circle cx="22" cy="92" r="5" fill="#ef4444"/>
+  <circle cx="38" cy="92" r="5" fill="#f59e0b"/>
+  <circle cx="54" cy="92" r="5" fill="#10b981"/>
+  
+  <text x="74" y="96" font-family="monospace" font-size="12.5" fill="#334155" font-weight="600">$ python deploy.py --engineer unaib-bashir --exp 5y+ --mode forward-deployed</text>
+  
+  <circle cx="752" cy="92" r="4" fill="#10b981"/>
+  <text x="762" y="96" font-family="monospace" font-size="11" fill="#059669" font-weight="600">agents online</text>
 
-  <rect x="320" y="299" width="175" height="20" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="407" y="313" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#334155">autonomous agent workflows</text>
+  <text x="24" y="135" font-family="monospace" font-size="11.5" fill="#4f46e5" font-weight="600">forward_pass()</text>
+  
+  <text x="115" y="166" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Software Eng</text>
+  <circle cx="130" cy="162" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
 
-  <rect x="505" y="299" width="165" height="20" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="587" y="313" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#334155">zero-friction automation</text>
+  <text x="115" y="210" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">AI + Agents</text>
+  <circle cx="130" cy="206" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
 
-  <rect x="680" y="299" width="155" height="20" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="757" y="313" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#334155">rapid client deployment</text>
-</svg>
+  <text x="115" y="254" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Automation</text>
+  <circle cx="130" cy="250" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+
+  <text x="115" y="298" text-anchor="end" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Full-Stack</text>
+  <circle cx="130" cy="294" r="6" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="136" y1="162" x2="214" y2="155"/><line x1="136" y1="162" x2="214" y2="196"/>
+    <line x1="136" y1="162" x2="214" y2="237"/><line x1="136" y1="162" x2="214" y2="278"/>
+    <line x1="136" y1="206" x2="214" y2="155"/><line x1="136" y1="206" x2="214" y2="196"/>
+    <line x1="136" y1="206" x2="214" y2="237"/><line x1="136" y1="206" x2="214" y2="278"/>
+    <line x1="136" y1="250" x2="214" y2="155"/><line x1="136" y1="250" x2="214" y2="196"/>
+    <line x1="136" y1="250" x2="214" y2="237"/><line x1="136" y1="250" x2="214" y2="278"/>
+    <line x1="136" y1="294" x2="214" y2="196"/><line x1="136" y1="294" x2="214" y2="237"/>
+    <line x1="136" y1="294" x2="214" y2="278"/><line x1="136" y1="294" x2="214" y2="310"/>
+    <line x1="226" y1="155" x2="294" y2="170"/><line x1="226" y1="155" x2="294" y2="212"/>
+    <line x1="226" y1="196" x2="294" y2="170"/><line x1="226" y1="196" x2="294" y2="212"/>
+    <line x1="226" y1="196" x2="294" y2="255"/><line x1="226" y1="237" x2="294" y2="212"/>
+    <line x1="226" y1="237" x2="294" y2="255"/><line x1="226" y1="237" x2="294" y2="296"/>
+    <line x1="226" y1="278" x2="294" y2="255"/><line x1="226" y1="278" x2="294" y2="296"/>
+    <line x1="226" y1="310" x2="294" y2="296"/>
+    <line x1="306" y1="170" x2="368" y2="188"/><line x1="306" y1="212" x2="368" y2="188"/>
+    <line x1="306" y1="212" x2="368" y2="270"/><line x1="306" y1="255" x2="368" y2="188"/>
+    <line x1="306" y1="255" x2="368" y2="270"/><line x1="306" y1="296" x2="368" y2="270"/>
+  </g>
+
+  <circle cx="220" cy="155" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="220" cy="196" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="220" cy="237" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="220" cy="278" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="220" cy="310" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+
+  <circle cx="300" cy="170" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="300" cy="212" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="300" cy="255" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="300" cy="296" r="5.5" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+
+  <circle cx="375" cy="188" r="6.5" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
+  <rect x="388" y="176" width="118" height="24" rx="5" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="447" y="192" text-anchor="middle" font-family="monospace" font-size="11" fill="#1d4ed8" font-weight="600">AI Architect</text>
+
+  <circle cx="375" cy="270" r="6.5" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
+  <rect x="388" y="258" width="118" height="24" rx="5" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="447" y="274" text-anchor="middle" font-family="monospace" font-size="11" fill="#1e293b" font-weight="600">Forward Deployed</text>
+
+  <text x="24" y="336" font-family="monospace" font-size="11" fill="#64748b">input: 5y+_experience | hidden: fullstack_ai_automation | output: p(production)</text>
+
+  <line x1="530" y1="122" x2="530" y2="342" stroke="#e2e8f0" stroke-width="1"/>
+
+  <text x="552" y="135" font-family="monospace" font-size="11.5" fill="#d97706" font-weight="600">impact_curve() - velocity &amp; scale</text>
+  <text x="552" y="162" font-family="monospace" font-size="11" fill="#64748b">high</text>
+  <text x="552" y="296" font-family="monospace" font-size="11" fill="#64748b">base</text>
+
+  <line x1="585" y1="154" x2="585" y2="300" stroke="#cbd5e1" stroke-width="1.2"/>
+  <line x1="585" y1="300" x2="835" y2="300" stroke="#cbd5e1" stroke-width="1.2"/>
+  <line x1="585" y1="202" x2="835" y2="202" stroke="#f1f5f9" stroke-width="1"/>
+  <line x1="585" y1="250" x2="835" y2="250" stroke="#f1f5f9" stroke-width="1"/>
+
+  <path d="M590 282 Q 650 262, 705 226 T 825 172" fill="none" stroke="#6366f1" stroke-width="1.8" stroke-dasharray="4 3"/>
+  <path d="M590 288 Q 655 252, 710 206 T 825 156" fill="none" stroke="#d97706" stroke-width="2.5"/>
+
+  <circle cx="605" cy="280" r="3.5" fill="#d97706"/>
+  <circle cx="660" cy="246" r="3.5" fill="#d97706"/>
+  <circle cx="715" cy="204" r="3.5" fill="#d97706"/>
+  <circle cx="770" cy="174" r="3.5" fill="#d97706"/>
+  <circle cx="825" cy="156" r="4.5" fill="#10b981" stroke="#ffffff" stroke-width="1.5"/>
+
+  <text x="605" y="316" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 1</text>
+  <text x="605" y="328" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">Core Dev</text>
+  <text x="660" y="316" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 2</text>
+  <text x="660" y="328" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">Full-Stack</text>
+  <text x="715" y="316" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 3</text>
+  <text x="715" y="328" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">Automation</text>
+  <text x="770" y="316" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#475569">Yr 4</text>
+  <text x="770" y="328" text-anchor="middle" font-family="monospace" font-size="9" fill="#94a3b8">AI / RAG</text>
+  <text x="825" y="316" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#059669" font-weight="600">5+ Yrs</text>
+  <text x="825" y="328" text-anchor="middle" font-family="monospace" font-size="9" fill="#059669">FDE Lead</text>
+
+  <line x1="1" y1="350" x2="859" y2="350" stroke="#e2e8f0" stroke-width="1"/>
