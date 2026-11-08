@@ -1,18 +1,7 @@
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+# Hi 👋, I'm Unaib Bashir
+### Senior Software & AI Developer (5+ Years) | Forward Deployed Engineer | Automation Architect
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:uno.b.agents@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com) • [Email Me](mailto:unaib@example.com) • [Repositories](https://github.com)
 
 ---
 
@@ -30,38 +19,27 @@ I am a **Software & AI Developer with 5+ years of experience** building producti
 
 <details open>
 <summary><b>🤖 AI, Agents & RAG Engineering</b></summary>
-<br>
 
-![LangChain](https://shields.io)
-![LangGraph](https://shields.io)
-![OpenAI](https://shields.io)
-![PyTorch](https://shields.io)
-![Pinecone](https://shields.io)
-![FAISS](https://shields.io)
+- **Frameworks & Orchestration:** LangChain, LangGraph, Agentic Workflows
+- **LLMs & Vision:** OpenAI API (`GPT-4o`), PyTorch (`EfficientNet-B0`), Multimodal Pipelines
+- **Vector Databases:** Pinecone (Serverless), FAISS (Local Evaluation)
 
 </details>
 
 <details open>
 <summary><b>⚡ Backend, Frontend & Databases</b></summary>
-<br>
 
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Next.js](https://shields.io)
-![TypeScript](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Supabase](https://shields.io)
+- **Backend:** Python, FastAPI, REST APIs, Real-Time Server-Sent Events (SSE)
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+- **Databases & Storage:** PostgreSQL, Supabase (Auth, PostgresSaver, Object Storage)
 
 </details>
 
 <details open>
 <summary><b>🔄 Automation & Cloud DevOps</b></summary>
-<br>
 
-![Docker](https://shields.io)
-![GitHub Actions](https://shields.io)
-![n8n](https://shields.io)
-![REST APIs](https://shields.io)
+- **Workflow Automation:** n8n, API Integrations, Event-Driven Pipelines
+- **Deployment & CI/CD:** Docker, GitHub Actions, Linux Server Management
 
 </details>
 
@@ -71,18 +49,13 @@ I am a **Software & AI Developer with 5+ years of experience** building producti
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[DermaAI — Multimodal Clinical RAG Backend](https://github.com)** | Enterprise dermatology consultation engine combining `EfficientNet-B0` skin image classification with `LangGraph` + `Pinecone` RAG and real-time SSE streaming. | `FastAPI` `LangGraph` `PyTorch` `Pinecone` `Supabase` |
-| **DermaAI — Patient Consultation Portal** | Full-stack patient interface featuring secure authentication, multi-thread consultation memory, skin image uploads, and live token streaming. | `Next.js` `TypeScript` `Tailwind CSS` `Supabase` |
+| **[DermaAI — Multimodal Clinical RAG Backend](https://github.com)** | Enterprise dermatology consultation engine combining `EfficientNet-B0` skin image classification with `LangGraph` + `Pinecone` RAG and real-time SSE streaming. | `FastAPI` • `LangGraph` • `PyTorch` • `Pinecone` • `Supabase` |
+| **DermaAI — Patient Consultation Portal** | Full-stack patient interface featuring secure authentication, multi-thread consultation memory, skin image uploads, and live token streaming. | `Next.js` • `TypeScript` • `Tailwind CSS` • `Supabase` |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 💡 How I Work (Forward-Deployed Approach)
 
-<div align="center">
-  <img height="165" src="https://vercel.app" />
-  <img height="165" src="https://vercel.app" />
-</div>
-
-<div align="center">
-  <img src="https://demolab.com" />
-</div>
+1. **Rapid Prototyping:** Translate ambiguous business problems into working AI/software proofs-of-concept within days.
+2. **Production Hardening:** Implement guardrails, evaluation pipelines, persistent memory, and secure authentication.
+3. **End-to-End Automation:** Connect AI intelligence directly into existing CRMs, APIs, and operational workflows.
