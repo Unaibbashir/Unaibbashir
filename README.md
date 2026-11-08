@@ -11,6 +11,6 @@
 
 <br/>
 
-<img src="./profile-card.svg" alt="Unaib Bashir Engineering Architecture" width="100%" />
+<img src="https://githubusercontent.com" alt="Unaib Bashir Engineering Architecture" width="100%" />
 
 </div>
